@@ -6,22 +6,24 @@
 
 ### This repository contains the scripts for:
 
-**A.** Update genome annotation using the MIKADO pipeline;
+**A.** Update genome annotation using the MIKADO pipeline
 
 **1.** Gene prediction
-- Generating input data required for running MIKADO pipeline;
+- Generating input data required for running MIKADO pipeline
 - Running MIKADO pipeline
 - Running PASA pipeline
 
 **2.** Functional annotation
-- PlantTFDB;
+- PlantTFDB
 - BlastKOALA
 - GRAMENE
 
 **B.** RNAseq anlaysis;
 
 **1.** Exploratory analysis
+
 **2.** Differential expression analysis
+
 **3.** Co-expression analysis
 
 
@@ -42,6 +44,9 @@
 8. Mikado: **mikado.sh**
 9. BRAKER: **braker.sh**
 10. PASA: **seqclean.sh**, **alignAssembly.sh**, **annotLoadandCompare.sh** and **abinitiotraining.sh**
+11. RNAseq exploratory: **Exploratory_script_all_data.R
+12. RNAseq DEG: **DEGs.R**
+13. RNAseq Co-expression: **CEMi_RNAseq_hybrids.R**
 
 Follow the steps described in 'Workflow.md' file.
 

@@ -44,7 +44,7 @@
 8. Mikado: **mikado.sh**
 9. BRAKER: **braker.sh**
 10. PASA: **seqclean.sh**, **alignAssembly.sh**, **annotLoadandCompare.sh** and **abinitiotraining.sh**
-11. RNAseq exploratory: **Exploratory_script_all_data.R
+11. RNAseq exploratory: **Exploratory_script_all_data.R**
 12. RNAseq DEG: **DEGs.R**
 13. RNAseq Co-expression: **CEMi_RNAseq_hybrids.R**
 
@@ -58,7 +58,7 @@ Genome data: http://gigadb.org/dataset/100655
 
 ### RNA seq data
 
-Samples were collected from a Brazilian sugarcane hybrid variety - SP80-3280 - grown under field conditions at 12 months after planting. Collected tissues include leaf +1 (L1), upper internode (I1), young internode (I5) and mature internode (I9) with three biological replicates per tissue.
+Plants of the sugarcane cultivar SP80-3280, the S. spontaneum genotype IN84-58 and eight interspecific hybrids obtained from the cross between the previously cited genotypes were planted under field condition at Agricultural Sciences Centre of the Federal University of São Carlos in Araras – São Paulo, Brazil. Tissue samples of the +1 leaf (L1) and upper (I1) and maturing (I5) internodes were collected from three biological replicates when the plants were 4, 8 and 12 months of age. 
 
 Stranded libraries were prepared and sequenced on Illumina Hiseq platform to obtain 150 bp paired-end reads. Each sample holds ~ 20M reads.
 

@@ -2,7 +2,7 @@
 
 ### Pipeline
 
-![Bioinformatics pipeline](https://github.com/augustold/RNAseq_sugarcane_biomass/blob/main/Bioinformatics_workflow.png){:height="50%" width="50%"}
+![Bioinformatics pipeline](https://github.com/augustold/RNAseq_sugarcane_biomass/blob/main/Bioinformatics_pipeline.png)
 
 ### This repository contains the scripts for:
 

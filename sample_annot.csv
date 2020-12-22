@@ -1,0 +1,277 @@
+Ord,Sample,Exp,ID,Tissue,Rep,Collection,Class,Class2,Type
+1,C402I111,Energy cane,C402,I1,1,1st,High,C4+,Hybrid
+2,C402I121,Energy cane,C402,I1,2,1st,High,C4+,Hybrid
+3,C402I131,Energy cane,C402,I1,3,1st,High,C4+,Hybrid
+4,C402L111,Energy cane,C402,L1,1,1st,High,C4+,Hybrid
+5,C402L121,Energy cane,C402,L1,2,1st,High,C4+,Hybrid
+6,C402L131,Energy cane,C402,L1,3,1st,High,C4+,Hybrid
+97,C402I112,Energy cane,C402,I1,1,2nd,High,C4+,Hybrid
+98,C402I122,Energy cane,C402,I1,2,2nd,High,C4+,Hybrid
+99,C402I132,Energy cane,C402,I1,3,2nd,High,C4+,Hybrid
+100,C402I512,Energy cane,C402,I5,1,2nd,High,C4+,Hybrid
+101,C402I522,Energy cane,C402,I5,2,2nd,High,C4+,Hybrid
+102,C402I532,Energy cane,C402,I5,3,2nd,High,C4+,Hybrid
+103,C402L112,Energy cane,C402,L1,1,2nd,High,C4+,Hybrid
+104,C402L122,Energy cane,C402,L1,2,2nd,High,C4+,Hybrid
+105,C402L132,Energy cane,C402,L1,3,2nd,High,C4+,Hybrid
+187,C402I113,Energy cane,C402,I1,1,3rd,High,C4+,Hybrid
+188,C402I123,Energy cane,C402,I1,2,3rd,High,C4+,Hybrid
+189,C402I133,Energy cane,C402,I1,3,3rd,High,C4+,Hybrid
+190,C402I513,Energy cane,C402,I5,1,3rd,High,C4+,Hybrid
+191,C402I523,Energy cane,C402,I5,2,3rd,High,C4+,Hybrid
+192,C402I533,Energy cane,C402,I5,3,3rd,High,C4+,Hybrid
+193,C402L113,Energy cane,C402,L1,1,3rd,High,C4+,Hybrid
+194,C402L123,Energy cane,C402,L1,2,3rd,High,C4+,Hybrid
+195,C402L133,Energy cane,C402,L1,3,3rd,High,C4+,Hybrid
+7,C411I111,Energy cane,C411,I1,1,1st,High,C4+,Hybrid
+8,C411I121,Energy cane,C411,I1,2,1st,High,C4+,Hybrid
+9,C411I131,Energy cane,C411,I1,3,1st,High,C4+,Hybrid
+10,C411L111,Energy cane,C411,L1,1,1st,High,C4+,Hybrid
+11,C411L121,Energy cane,C411,L1,2,1st,High,C4+,Hybrid
+12,C411L131,Energy cane,C411,L1,3,1st,High,C4+,Hybrid
+106,C411I112,Energy cane,C411,I1,1,2nd,High,C4+,Hybrid
+107,C411I122,Energy cane,C411,I1,2,2nd,High,C4+,Hybrid
+108,C411I132,Energy cane,C411,I1,3,2nd,High,C4+,Hybrid
+109,C411I522,Energy cane,C411,I5,1,2nd,High,C4+,Hybrid
+110,C411I512,Energy cane,C411,I5,2,2nd,High,C4+,Hybrid
+111,C411I532,Energy cane,C411,I5,3,2nd,High,C4+,Hybrid
+112,C411L122,Energy cane,C411,L1,1,2nd,High,C4+,Hybrid
+113,C411L112,Energy cane,C411,L1,2,2nd,High,C4+,Hybrid
+114,C411L132,Energy cane,C411,L1,3,2nd,High,C4+,Hybrid
+196,C411I113,Energy cane,C411,I1,1,3rd,High,C4+,Hybrid
+197,C411I123,Energy cane,C411,I1,2,3rd,High,C4+,Hybrid
+198,C411I133,Energy cane,C411,I1,3,3rd,High,C4+,Hybrid
+199,C411I513,Energy cane,C411,I5,1,3rd,High,C4+,Hybrid
+200,C411I523,Energy cane,C411,I5,2,3rd,High,C4+,Hybrid
+201,C411I533,Energy cane,C411,I5,3,3rd,High,C4+,Hybrid
+202,C411L113,Energy cane,C411,L1,1,3rd,High,C4+,Hybrid
+203,C411L123,Energy cane,C411,L1,2,3rd,High,C4+,Hybrid
+204,C411L133,Energy cane,C411,L1,3,3rd,High,C4+,Hybrid
+13,C414I111,Energy cane,C414,I1,1,1st,High,C4+,Hybrid
+14,C414I121,Energy cane,C414,I1,2,1st,High,C4+,Hybrid
+15,C414I131,Energy cane,C414,I1,3,1st,High,C4+,Hybrid
+16,C414L131,Energy cane,C414,L1,3,1st,High,C4+,Hybrid
+17,C414L111,Energy cane,C414,L1,1,1st,High,C4+,Hybrid
+18,C414L121,Energy cane,C414,L1,2,1st,High,C4+,Hybrid
+115,C414I112,Energy cane,C414,I1,1,2nd,High,C4+,Hybrid
+116,C414I122,Energy cane,C414,I1,2,2nd,High,C4+,Hybrid
+117,C414I132,Energy cane,C414,I1,3,2nd,High,C4+,Hybrid
+118,C414I512,Energy cane,C414,I5,1,2nd,High,C4+,Hybrid
+119,C414I522,Energy cane,C414,I5,2,2nd,High,C4+,Hybrid
+120,C414I532,Energy cane,C414,I5,3,2nd,High,C4+,Hybrid
+121,C414L122,Energy cane,C414,L1,3,2nd,High,C4+,Hybrid
+122,C414L112,Energy cane,C414,L1,1,2nd,High,C4+,Hybrid
+123,C414L132,Energy cane,C414,L1,2,2nd,High,C4+,Hybrid
+205,C414I113,Energy cane,C414,I1,1,3rd,High,C4+,Hybrid
+206,C414I123,Energy cane,C414,I1,2,3rd,High,C4+,Hybrid
+207,C414I133,Energy cane,C414,I1,3,3rd,High,C4+,Hybrid
+208,C414I513,Energy cane,C414,I5,1,3rd,High,C4+,Hybrid
+209,C414I523,Energy cane,C414,I5,2,3rd,High,C4+,Hybrid
+210,C414I533,Energy cane,C414,I5,3,3rd,High,C4+,Hybrid
+211,C414L113,Energy cane,C414,L1,3,3rd,High,C4+,Hybrid
+212,C414L123,Energy cane,C414,L1,1,3rd,High,C4+,Hybrid
+213,C414L133,Energy cane,C414,L1,2,3rd,High,C4+,Hybrid
+19,C416I111,Energy cane,C416,I1,1,1st,Low,C4-,Hybrid
+20,C416I121,Energy cane,C416,I1,2,1st,Low,C4-,Hybrid
+21,C416I131,Energy cane,C416,I1,3,1st,Low,C4-,Hybrid
+22,C416L111,Energy cane,C416,L1,1,1st,Low,C4-,Hybrid
+23,C416L131,Energy cane,C416,L1,3,1st,Low,C4-,Hybrid
+24,C416L121,Energy cane,C416,L1,2,1st,Low,C4-,Hybrid
+124,C416I112,Energy cane,C416,I1,1,2nd,Low,C4-,Hybrid
+125,C416I122,Energy cane,C416,I1,2,2nd,Low,C4-,Hybrid
+126,C416I132,Energy cane,C416,I1,3,2nd,Low,C4-,Hybrid
+127,C416I512,Energy cane,C416,I5,1,2nd,Low,C4-,Hybrid
+128,C416I522,Energy cane,C416,I5,2,2nd,Low,C4-,Hybrid
+129,C416I532,Energy cane,C416,I5,3,2nd,Low,C4-,Hybrid
+130,C416L122,Energy cane,C416,L1,1,2nd,Low,C4-,Hybrid
+131,C416L112,Energy cane,C416,L1,3,2nd,Low,C4-,Hybrid
+132,C416L132,Energy cane,C416,L1,2,2nd,Low,C4-,Hybrid
+214,C416I113,Energy cane,C416,I1,1,3rd,Low,C4-,Hybrid
+215,C416I123,Energy cane,C416,I1,2,3rd,Low,C4-,Hybrid
+216,C416I133,Energy cane,C416,I1,3,3rd,Low,C4-,Hybrid
+217,C416I513,Energy cane,C416,I5,1,3rd,Low,C4-,Hybrid
+218,C416I523,Energy cane,C416,I5,2,3rd,Low,C4-,Hybrid
+219,C416I533,Energy cane,C416,I5,3,3rd,Low,C4-,Hybrid
+220,C416L113,Energy cane,C416,L1,1,3rd,Low,C4-,Hybrid
+221,C416L123,Energy cane,C416,L1,3,3rd,Low,C4-,Hybrid
+222,C416L133,Energy cane,C416,L1,2,3rd,Low,C4-,Hybrid
+25,C418I111,Energy cane,C418,I1,1,1st,Low,C4-,Hybrid
+26,C418I121,Energy cane,C418,I1,2,1st,Low,C4-,Hybrid
+27,C418I131,Energy cane,C418,I1,3,1st,Low,C4-,Hybrid
+28,C418L111,Energy cane,C418,L1,1,1st,Low,C4-,Hybrid
+29,C418L131,Energy cane,C418,L1,3,1st,Low,C4-,Hybrid
+30,C418L121,Energy cane,C418,L1,2,1st,Low,C4-,Hybrid
+133,C418I112,Energy cane,C418,I1,1,2nd,Low,C4-,Hybrid
+134,C418I122,Energy cane,C418,I1,2,2nd,Low,C4-,Hybrid
+135,C418I132,Energy cane,C418,I1,3,2nd,Low,C4-,Hybrid
+136,C418I512,Energy cane,C418,I5,1,2nd,Low,C4-,Hybrid
+137,C418I522,Energy cane,C418,I5,2,2nd,Low,C4-,Hybrid
+138,C418I532,Energy cane,C418,I5,3,2nd,Low,C4-,Hybrid
+139,C418L122,Energy cane,C418,L1,1,2nd,Low,C4-,Hybrid
+140,C418L112,Energy cane,C418,L1,3,2nd,Low,C4-,Hybrid
+141,C418L132,Energy cane,C418,L1,2,2nd,Low,C4-,Hybrid
+223,C418I113,Energy cane,C418,I1,1,3rd,Low,C4-,Hybrid
+224,C418I123,Energy cane,C418,I1,2,3rd,Low,C4-,Hybrid
+225,C418I133,Energy cane,C418,I1,3,3rd,Low,C4-,Hybrid
+226,C418I513,Energy cane,C418,I5,1,3rd,Low,C4-,Hybrid
+227,C418I523,Energy cane,C418,I5,2,3rd,Low,C4-,Hybrid
+228,C418I533,Energy cane,C418,I5,3,3rd,Low,C4-,Hybrid
+229,C418L113,Energy cane,C418,L1,1,3rd,Low,C4-,Hybrid
+230,C418L123,Energy cane,C418,L1,3,3rd,Low,C4-,Hybrid
+231,C418L133,Energy cane,C418,L1,2,3rd,Low,C4-,Hybrid
+31,C419I111,Energy cane,C419,I1,1,1st,High,C4+,Hybrid
+32,C419I121,Energy cane,C419,I1,2,1st,High,C4+,Hybrid
+33,C419I131,Energy cane,C419,I1,3,1st,High,C4+,Hybrid
+34,C419L111,Energy cane,C419,L1,1,1st,High,C4+,Hybrid
+35,C419L131,Energy cane,C419,L1,3,1st,High,C4+,Hybrid
+36,C419L121,Energy cane,C419,L1,2,1st,High,C4+,Hybrid
+142,C419I112,Energy cane,C419,I1,1,2nd,High,C4+,Hybrid
+143,C419I122,Energy cane,C419,I1,2,2nd,High,C4+,Hybrid
+144,C419I132,Energy cane,C419,I1,3,2nd,High,C4+,Hybrid
+145,C419I512,Energy cane,C419,I5,1,2nd,High,C4+,Hybrid
+146,C419I522,Energy cane,C419,I5,2,2nd,High,C4+,Hybrid
+147,C419I532,Energy cane,C419,I5,3,2nd,High,C4+,Hybrid
+148,C419L122,Energy cane,C419,L1,1,2nd,High,C4+,Hybrid
+149,C419L112,Energy cane,C419,L1,3,2nd,High,C4+,Hybrid
+150,C419L132,Energy cane,C419,L1,2,2nd,High,C4+,Hybrid
+232,C419I113,Energy cane,C419,I1,1,3rd,High,C4+,Hybrid
+233,C419I123,Energy cane,C419,I1,2,3rd,High,C4+,Hybrid
+234,C419I133,Energy cane,C419,I1,3,3rd,High,C4+,Hybrid
+235,C419I513,Energy cane,C419,I5,1,3rd,High,C4+,Hybrid
+236,C419I523,Energy cane,C419,I5,2,3rd,High,C4+,Hybrid
+237,C419I533,Energy cane,C419,I5,3,3rd,High,C4+,Hybrid
+238,C419L113,Energy cane,C419,L1,1,3rd,High,C4+,Hybrid
+239,C419L123,Energy cane,C419,L1,3,3rd,High,C4+,Hybrid
+240,C419L133,Energy cane,C419,L1,2,3rd,High,C4+,Hybrid
+37,C424I111,Energy cane,C424,I1,1,1st,Low,C4-,Hybrid
+38,C424I121,Energy cane,C424,I1,2,1st,Low,C4-,Hybrid
+39,C424I131,Energy cane,C424,I1,3,1st,Low,C4-,Hybrid
+40,C424L111,Energy cane,C424,L1,1,1st,Low,C4-,Hybrid
+41,C424L121,Energy cane,C424,L1,2,1st,Low,C4-,Hybrid
+42,C424L131,Energy cane,C424,L1,3,1st,Low,C4-,Hybrid
+151,C424I112,Energy cane,C424,I1,1,2nd,Low,C4-,Hybrid
+152,C424I122,Energy cane,C424,I1,2,2nd,Low,C4-,Hybrid
+153,C424I132,Energy cane,C424,I1,3,2nd,Low,C4-,Hybrid
+154,C424I512,Energy cane,C424,I5,1,2nd,Low,C4-,Hybrid
+155,C424I522,Energy cane,C424,I5,2,2nd,Low,C4-,Hybrid
+156,C424I532,Energy cane,C424,I5,3,2nd,Low,C4-,Hybrid
+157,C424L122,Energy cane,C424,L1,1,2nd,Low,C4-,Hybrid
+158,C424L112,Energy cane,C424,L1,2,2nd,Low,C4-,Hybrid
+159,C424L132,Energy cane,C424,L1,3,2nd,Low,C4-,Hybrid
+241,C424I113,Energy cane,C424,I1,1,3rd,Low,C4-,Hybrid
+242,C424I123,Energy cane,C424,I1,2,3rd,Low,C4-,Hybrid
+243,C424I133,Energy cane,C424,I1,3,3rd,Low,C4-,Hybrid
+244,C424I513,Energy cane,C424,I5,1,3rd,Low,C4-,Hybrid
+245,C424I523,Energy cane,C424,I5,2,3rd,Low,C4-,Hybrid
+246,C424I533,Energy cane,C424,I5,3,3rd,Low,C4-,Hybrid
+247,C424L113,Energy cane,C424,L1,1,3rd,Low,C4-,Hybrid
+248,C424L123,Energy cane,C424,L1,2,3rd,Low,C4-,Hybrid
+249,C424L133,Energy cane,C424,L1,3,3rd,Low,C4-,Hybrid
+43,C429I111,Energy cane,C429,I1,1,1st,Low,C4-,Hybrid
+44,C429I121,Energy cane,C429,I1,2,1st,Low,C4-,Hybrid
+45,C429I131,Energy cane,C429,I1,3,1st,Low,C4-,Hybrid
+46,C429L121,Energy cane,C429,L1,2,1st,Low,C4-,Hybrid
+47,C429L131,Energy cane,C429,L1,3,1st,Low,C4-,Hybrid
+48,C429L111,Energy cane,C429,L1,1,1st,Low,C4-,Hybrid
+160,C429I112,Energy cane,C429,I1,1,2nd,Low,C4-,Hybrid
+161,C429I122,Energy cane,C429,I1,2,2nd,Low,C4-,Hybrid
+162,C429I132,Energy cane,C429,I1,3,2nd,Low,C4-,Hybrid
+163,C429I512,Energy cane,C429,I5,1,2nd,Low,C4-,Hybrid
+164,C429I522,Energy cane,C429,I5,2,2nd,Low,C4-,Hybrid
+165,C429I532,Energy cane,C429,I5,3,2nd,Low,C4-,Hybrid
+166,C429L112,Energy cane,C429,L1,2,2nd,Low,C4-,Hybrid
+167,C429L122,Energy cane,C429,L1,3,2nd,Low,C4-,Hybrid
+168,C429L132,Energy cane,C429,L1,1,2nd,Low,C4-,Hybrid
+250,C429I113,Energy cane,C429,I1,1,3rd,Low,C4-,Hybrid
+251,C429I123,Energy cane,C429,I1,2,3rd,Low,C4-,Hybrid
+252,C429I133,Energy cane,C429,I1,3,3rd,Low,C4-,Hybrid
+253,C429I513,Energy cane,C429,I5,1,3rd,Low,C4-,Hybrid
+254,C429I523,Energy cane,C429,I5,2,3rd,Low,C4-,Hybrid
+255,C429I533,Energy cane,C429,I5,3,3rd,Low,C4-,Hybrid
+256,C429L113,Energy cane,C429,L1,2,3rd,Low,C4-,Hybrid
+257,C429L123,Energy cane,C429,L1,3,3rd,Low,C4-,Hybrid
+258,C429L133,Energy cane,C429,L1,1,3rd,Low,C4-,Hybrid
+49,CBI11,Ancestral,CB,I1,1,,,,
+50,CBI12,Ancestral,CB,I1,2,,,,
+51,CBI13,Ancestral,CB,I1,3,,,,
+52,CBI51,Ancestral,CB,I5,1,,,,
+53,CBI52,Ancestral,CB,I5,2,,,,
+54,CBI53,Ancestral,CB,I5,3,,,,
+55,CBI91,Ancestral,CB,I9,1,,,,
+56,CBI92,Ancestral,CB,I9,2,,,,
+57,CBI93,Ancestral,CB,I9,3,,,,
+58,CBL11,Ancestral,CB,L1,1,,,,
+59,CBL12,Ancestral,CB,L1,2,,,,
+60,CBL13,Ancestral,CB,L1,3,,,,
+61,INI11,Ancestral,IN,I1,1,,,,
+62,INI12,Ancestral,IN,I1,2,,,,
+63,INI13,Ancestral,IN,I1,3,,,,
+64,INI51,Ancestral,IN,I5,1,,,,
+65,INI52,Ancestral,IN,I5,2,,,,
+66,INI53,Ancestral,IN,I5,3,,,,
+67,INI91,Ancestral,IN,I9,1,,,,
+68,INI92,Ancestral,IN,I9,2,,,,
+69,INI93,Ancestral,IN,I9,3,,,,
+70,INL11,Ancestral,IN,L1,1,,,,
+71,INL12,Ancestral,IN,L1,2,,,,
+72,INL13,Ancestral,IN,L1,3,,,,
+73,IN84I111,Energy cane,IN84,I1,1,1st,IN84,IN84,Parent
+74,IN84I121,Energy cane,IN84,I1,2,1st,IN84,IN84,Parent
+75,IN84I131,Energy cane,IN84,I1,3,1st,IN84,IN84,Parent
+76,IN84L111,Energy cane,IN84,L1,1,1st,IN84,IN84,Parent
+77,IN84L121,Energy cane,IN84,L1,2,1st,IN84,IN84,Parent
+78,IN84L131,Energy cane,IN84,L1,3,1st,IN84,IN84,Parent
+169,IN84I112,Energy cane,IN84,I1,1,2nd,IN84,IN84,Parent
+170,IN84I122,Energy cane,IN84,I1,2,2nd,IN84,IN84,Parent
+171,IN84I132,Energy cane,IN84,I1,3,2nd,IN84,IN84,Parent
+172,IN84I512,Energy cane,IN84,I5,1,2nd,IN84,IN84,Parent
+173,IN84I522,Energy cane,IN84,I5,2,2nd,IN84,IN84,Parent
+174,IN84I532,Energy cane,IN84,I5,3,2nd,IN84,IN84,Parent
+175,IN84L112,Energy cane,IN84,L1,1,2nd,IN84,IN84,Parent
+176,IN84L122,Energy cane,IN84,L1,2,2nd,IN84,IN84,Parent
+177,IN84L132,Energy cane,IN84,L1,3,2nd,IN84,IN84,Parent
+259,IN84I113,Energy cane,IN84,I1,1,3rd,IN84,IN84,Parent
+260,IN84I123,Energy cane,IN84,I1,2,3rd,IN84,IN84,Parent
+261,IN84I133,Energy cane,IN84,I1,3,3rd,IN84,IN84,Parent
+262,IN84I513,Energy cane,IN84,I5,1,3rd,IN84,IN84,Parent
+263,IN84I523,Energy cane,IN84,I5,2,3rd,IN84,IN84,Parent
+264,IN84I533,Energy cane,IN84,I5,3,3rd,IN84,IN84,Parent
+265,IN84L113,Energy cane,IN84,L1,1,3rd,IN84,IN84,Parent
+266,IN84L123,Energy cane,IN84,L1,2,3rd,IN84,IN84,Parent
+267,IN84L133,Energy cane,IN84,L1,3,3rd,IN84,IN84,Parent
+79,SPI11,Ancestral,SP,I1,1,,,,
+80,SPI12,Ancestral,SP,I1,2,,,,
+81,SPI13,Ancestral,SP,I1,3,,,,
+82,SPI51,Ancestral,SP,I5,1,,,,
+83,SPI52,Ancestral,SP,I5,2,,,,
+84,SPI53,Ancestral,SP,I5,3,,,,
+85,SPI91,Ancestral,SP,I9,1,,,,
+86,SPI92,Ancestral,SP,I9,2,,,,
+87,SPI93,Ancestral,SP,I9,3,,,,
+88,SPL11,Ancestral,SP,L1,1,,,,
+89,SPL12,Ancestral,SP,L1,2,,,,
+90,SPL13,Ancestral,SP,L1,3,,,,
+91,SP80I111,Energy cane,SP80,I1,1,1st,SP80,SP80,Parent
+92,SP80I121,Energy cane,SP80,I1,2,1st,SP80,SP80,Parent
+93,SP80I131,Energy cane,SP80,I1,3,1st,SP80,SP80,Parent
+94,SP80L131,Energy cane,SP80,L1,3,1st,SP80,SP80,Parent
+95,SP80L111,Energy cane,SP80,L1,1,1st,SP80,SP80,Parent
+96,SP80L121,Energy cane,SP80,L1,2,1st,SP80,SP80,Parent
+178,SP80I112,Energy cane,SP80,I1,1,2nd,SP80,SP80,Parent
+179,SP80I122,Energy cane,SP80,I1,2,2nd,SP80,SP80,Parent
+180,SP80I132,Energy cane,SP80,I1,3,2nd,SP80,SP80,Parent
+181,SP80I512,Energy cane,SP80,I5,1,2nd,SP80,SP80,Parent
+182,SP80I522,Energy cane,SP80,I5,2,2nd,SP80,SP80,Parent
+183,SP80I532,Energy cane,SP80,I5,3,2nd,SP80,SP80,Parent
+184,SP80L112,Energy cane,SP80,L1,3,2nd,SP80,SP80,Parent
+185,SP80L122,Energy cane,SP80,L1,1,2nd,SP80,SP80,Parent
+186,SP80L132,Energy cane,SP80,L1,2,2nd,SP80,SP80,Parent
+268,SP80I113,Energy cane,SP80,I1,1,3rd,SP80,SP80,Parent
+269,SP80I123,Energy cane,SP80,I1,2,3rd,SP80,SP80,Parent
+270,SP80I133,Energy cane,SP80,I1,3,3rd,SP80,SP80,Parent
+271,SP80I513,Energy cane,SP80,I5,1,3rd,SP80,SP80,Parent
+272,SP80I523,Energy cane,SP80,I5,2,3rd,SP80,SP80,Parent
+273,SP80I533,Energy cane,SP80,I5,3,3rd,SP80,SP80,Parent
+274,SP80L113,Energy cane,SP80,L1,3,3rd,SP80,SP80,Parent
+275,SP80L123,Energy cane,SP80,L1,1,3rd,SP80,SP80,Parent
+276,SP80L133,Energy cane,SP80,L1,2,3rd,SP80,SP80,Parent
